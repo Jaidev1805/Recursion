@@ -4,8 +4,8 @@ This repository contains solutions to the exercises for the “Recursion” proj
 
 ## What’s inside
 
-- `fibs.js` — iterative implementation of generating the first _n_ numbers of the Fibonacci sequence.  
-- `fibsrec.js` — recursive implementation to generate the first _n_ Fibonacci numbers.  
+- `fib.js` — iterative implementation of generating the first _n_ numbers of the Fibonacci sequence.  
+- `fibr.js` — recursive implementation to generate the first _n_ Fibonacci numbers.  
 - `mergesort.js` — recursive implementation of the Merge Sort algorithm that sorts arrays.  
 
 ## 📚 Background
