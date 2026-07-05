@@ -1,4 +1,4 @@
-# Recursion Project 🎯
+# Recursion Project
 
 This repository contains solutions to the exercises for the “Recursion” project from The Odin Project (JavaScript course).
 
@@ -8,7 +8,7 @@ This repository contains solutions to the exercises for the “Recursion” proj
 - `fibrs.js` — recursive implementation to generate the first _n_ Fibonacci numbers.  
 - `mergesort.js` — recursive implementation of the Merge Sort algorithm that sorts arrays.  
 
-## 📚 Background
+## Background
 
 - Recursion is a programming technique where a function calls itself in order to solve a problem by breaking it into smaller sub-problems.
 - In this project you practice recursion in two contexts:  
